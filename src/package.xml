@@ -24,7 +24,6 @@
 	
 	<types>
     <members>ngForce</members>
-    <members>Angular</members>
     <members>Bootstrap</members>
     <members>ngForce</members>
 		<name>StaticResource</name>
