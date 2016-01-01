@@ -21,10 +21,7 @@
 		<members>ngForceAccountsAll</members>
 		<name>ApexPage</name>
 	</types>
-	<types>
-		<members>Mo_Tester_2__c</members>
-		<name>CustomObject</name>
-	</types>
+	
 	<types>
     <members>ngForce</members>
     <members>Angular</members>
