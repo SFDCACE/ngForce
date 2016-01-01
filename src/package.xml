@@ -22,7 +22,7 @@
 		<name>ApexPage</name>
 	</types>
 	<types>
-		<members>_Mo_Tester_2__c</members>
+		<members>Mo_Tester_2__c</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
